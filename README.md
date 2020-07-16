@@ -1,8 +1,8 @@
 # Hello there
 
-My name is Naji
+My name is Naji.
 
-Here's some real time stats about me:
+Here are some real time stats about my coding habits:
 
 [![Languages](https://wakatime.com/share/@naji/38f10b12-e465-4270-94cc-dcc1ec0eeb5e.png)](https://youtu.be/dQw4w9WgXcQ)
 
