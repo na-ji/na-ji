@@ -8,10 +8,10 @@ Here are some real time stats about my coding habits:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 36 mins   ████████████████░░░░░░░░░   64.38 % 
-JSON         1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-YAML         1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+TypeScript   15 hrs 3 mins   █████████████████████▓░░░   86.17 % 
+JSON         1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
